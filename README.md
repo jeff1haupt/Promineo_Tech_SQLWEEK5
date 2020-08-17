@@ -18,4 +18,6 @@ The Java program has five classes: Application, Menu, RunDao, DBConnection, and 
 
 ## Technologies
 * mySQL 8
+* Java 12
+* Eclipse IDE
 * dBeaver 7
